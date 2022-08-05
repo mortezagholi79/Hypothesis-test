@@ -3,6 +3,8 @@
 
 Hypothesis test comparing the mean vector with a fixed vector
 
+آزمون فرض مقایسه بردار میانگین با یک بردار ثابت
+
 
 
 
@@ -10,11 +12,15 @@ Hypothesis test comparing the mean vector with a fixed vector
 
 Hypothesis test comparing the vector means of two independent groups
 
+آزمون فرض مقایسه بردار میانگین های دو گروه مستقل
+
 
 
 ## Hypothesis-test_type3  
 
 Hypothesis test comparing the vector means of two dependent groups
+
+آزمون فرض مقایسه بردار میانگین های دو گروه وابسته
 
 
 
